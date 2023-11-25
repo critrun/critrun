@@ -1,12 +1,16 @@
 ## ✨ *A Programmer Guy* ✨
 
+[//]: <Green 2E6922, Red B52A1B, Gray 0A0C10>
+
 ### About Me
 ![Static Badge](https://img.shields.io/badge/he%2Fhim%2Fidc-0A0C10?style=flat-square) \
 ![Relative date](https://img.shields.io/date/1074841200?style=flat-square&label=Born&labelColor=0A0C10&color=0A0C10)
 ![Static Badge](https://img.shields.io/badge/2003%2F07%2F25-0A0C10?style=flat-square&color=0A0C10) \
-![Static Badge](https://img.shields.io/badge/Proficient-brightgreen?style=flat-square&logo=cplusplus&logoColor=FFFFFF&color=000000) \
-![Static Badge](https://img.shields.io/badge/Proficient-brightgreen?style=flat-square&logo=python&logoColor=FFFFFF&color=000000) \
-![Static Badge](https://img.shields.io/badge/MCS51-Proficient-brightgreen?style=flat-square&labelColor=000000&color=000000)
+![Static Badge](https://img.shields.io/badge/Proficient-brightgreen?style=flat-square&logo=cplusplus&logoColor=FFFFFF&color=2E6922) \
+![Static Badge](https://img.shields.io/badge/Proficient-brightgreen?style=flat-square&logo=python&logoColor=FFFFFF&color=2E6922) \
+![Static Badge](https://img.shields.io/badge/MCS51-Proficient-brightgreen?style=flat-square&labelColor=2E6922&color=2E6922) \
+![Static Badge](https://img.shields.io/badge/Beginner-brightgreen?style=flat-square&logo=html5&logoColor=FFFFFF&color=B52A1B) \
+![Static Badge](https://img.shields.io/badge/Beginner-brightgreen?style=flat-square&logo=css3&logoColor=FFFFFF&color=B52A1B) 
 
 
 ### Lore
