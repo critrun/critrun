@@ -20,7 +20,6 @@
 Hi, I'm Anton also known as crit!\
 Tall person in Sweden.\
 I'm mostly interested in low-level development of firmware, be it RTOS or bare metal.\
-Just recently started learning git (I should've much sooner).\
 Outside of development I enjoy photography, entrepreneurship, math, art and parkour.\
 I'm just a little guy, really.
 
