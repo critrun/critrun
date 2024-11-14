@@ -12,6 +12,9 @@
 <div align="left" style="display: grid; grid-template-columns: 1fr 1fr; gap: 2px; max-width: 20em; margin-bottom: 2px;">
 <img src="https://img.shields.io/badge/C-Fluent-brightgreen?style=flat-square&logo=c&logoColor=FFFFFF&color=2E6922" alt="C Badge">
 <img src="https://img.shields.io/badge/C++-Fluent-brightgreen?style=flat-square&logo=cplusplus&logoColor=FFFFFF&color=2E6922" alt="C++ Badge">
+</div>
+
+<div align="left" style="display: grid; grid-template-columns: 1fr 1fr; gap: 2px; max-width: 20em; margin-bottom: 2px;">
 <img src="https://img.shields.io/badge/Python-Fluent-brightgreen?style=flat-square&logo=python&logoColor=FFFFFF&color=2E6922" alt="Python Badge">
 <img src="https://img.shields.io/badge/MCS51-Fluent-brightgreen?style=flat-square&color=2E6922" alt="MCS51 Badge">
 </div>
@@ -23,6 +26,9 @@
 <div align="left" style="display: grid; grid-template-columns: 1fr 1fr; gap: 2px; max-width: 20em; margin-bottom: 2px;">
 <img src="https://img.shields.io/badge/Go-Novice-brightgreen?style=flat-square&logo=go&logoColor=FFFFFF&color=B52A1B" alt="Go Badge">
 <img src="https://img.shields.io/badge/HTML-Novice-brightgreen?style=flat-square&logo=html5&logoColor=FFFFFF&color=B52A1B" alt="HTML Badge">
+</div>
+
+<div align="left" style="display: grid; grid-template-columns: 1fr 1fr; gap: 2px; max-width: 20em; margin-bottom: 2px;">
 <img src="https://img.shields.io/badge/CSS-Novice-brightgreen?style=flat-square&logo=css3&logoColor=FFFFFF&color=B52A1B" alt="CSS Badge">
 <img src="https://img.shields.io/badge/JavaScript-Novice-brightgreen?style=flat-square&logo=javascript&logoColor=FFFFFF&color=B52A1B" alt="JavaScript Badge">
 </div>
