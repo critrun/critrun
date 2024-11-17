@@ -33,6 +33,10 @@
 <img src="https://img.shields.io/badge/JavaScript-Novice-brightgreen?style=flat-square&logo=javascript&logoColor=FFFFFF&color=B52A1B" alt="JavaScript Badge">
 </div>
 
+### ⭐ Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=critrun&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_radius=10&icon_color=aaaaaa&border_color=000000&size_weight=0.5&count_weight=0.5)
+![Critrun's GitHub stats](https://github-readme-stats.vercel.app/api?username=critrun&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&border_radius=10&icon_color=aaaaaa&border_color=000000&hide_title=true&hide_rank=true)
+
 ### 📝 Background
 <div style="max-width: 40em">
 <t>
@@ -44,7 +48,6 @@ Hi, I'm Anton [crit]. I’m a developer based in Sweden with a focus on firmware
 - [**Bare Metal Tracker**](https://youtu.be/iGC7x0tvsXU?t=460) — A lightweight firmware solution for a motion capture device.
 - [**Obstacle & Ground Detection from Point Cloud**](https://github.com/critrun) — A research project focused on analyzing point clouds for autonomous obstacle detection. (Available per request)
 
-
 ### 🌐 Let's Connect
 *Feel free to reach out to me on any of these platforms:* \
 [![Static Badge](https://img.shields.io/badge/Mastodon-blue?logo=mastodon&logoColor=FFFFFF&labelColor=0D1117&color=0D1117&style=flat-square)](https://fedi.crit.run/@crit)
@@ -52,3 +55,5 @@ Hi, I'm Anton [crit]. I’m a developer based in Sweden with a focus on firmware
 [![Static Badge](https://img.shields.io/badge/Bluesky-blue?logo=bluesky&logoColor=FFFFFF&labelColor=0D1117&color=0D1117&style=flat-square)](https://bsky.app/profile/crit.run)
 
 🔗 [**Visit my Website**](https://crit.run)
+
+![Profile Views](https://komarev.com/ghpvc/?username=critrun&color=BC6A00&style=flat-square)
