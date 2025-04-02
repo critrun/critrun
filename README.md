@@ -1,4 +1,4 @@
-## ✨ *A Programmer Girl* ✨
+## ✨ *A Programmer Gril* ✨
 
 [//]: <Green 2E6922, Red B52A1B, Gray 0D1117, Yellow BC6A00>
 
