@@ -1,9 +1,9 @@
-## ✨ *A Programmer Guy* ✨
+## ✨ *A Programmer Girl* ✨
 
 [//]: <Green 2E6922, Red B52A1B, Gray 0D1117, Yellow BC6A00>
 
 ### 👤 About Me
-- 🔧 **Pronouns:** he/him
+- 🔧 **Pronouns:** she/her
 - 🍰 **Birthday:** 2003/07/25
 - 📍 **Location:** Sweden 
 - 💻 **Focus:** Low-level development of firmware (RTOS or bare metal)
@@ -40,7 +40,7 @@
 ### 📝 Background
 <div style="max-width: 40em">
 <t>
-Hi, I'm Anton [crit]. I’m a developer based in Sweden with a focus on firmware and low-level development, especially RTOS and bare-metal systems. Outside of coding, you’ll find me interested in math, photography, entrepreneurship, art, and parkour.
+Hi, I'm Ronja [crit]. I’m a developer based in Sweden with a focus on firmware and low-level development, especially RTOS and bare-metal systems. Outside of coding, you’ll find me interested in math, photography, entrepreneurship, art, and parkour.
 </t>
 </div>
 
@@ -50,7 +50,6 @@ Hi, I'm Anton [crit]. I’m a developer based in Sweden with a focus on firmware
 
 ### 🌐 Let's Connect
 *Feel free to reach out to me on any of these platforms:* \
-[![Static Badge](https://img.shields.io/badge/Mastodon-blue?logo=mastodon&logoColor=FFFFFF&labelColor=0D1117&color=0D1117&style=flat-square)](https://fedi.crit.run/@crit)
 [![Static Badge](https://img.shields.io/badge/Steam-blue?logo=steam&logoColor=FFFFFF&labelColor=0D1117&color=0D1117&style=flat-square)](https://steamcommunity.com/id/this_url_is_not_taken/)
 [![Static Badge](https://img.shields.io/badge/Bluesky-blue?logo=bluesky&logoColor=FFFFFF&labelColor=0D1117&color=0D1117&style=flat-square)](https://bsky.app/profile/crit.run)
 
